@@ -40,7 +40,7 @@
 
 📊 GitHub Stats:
 
-
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soroush-Eghdami&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soroush-Eghdami&layout=compact&theme=tokyonight)
 
