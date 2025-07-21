@@ -4,7 +4,6 @@
 - 🎓 studying **Computer Engineering** at *Islamic Azad University*  
 - 🧠 exploring **AI/ML**, system design, and backend architecture through hands-on projects  
 - ⚙️ skilled in **Python, Django, PostgreSQL, Git, Linux**, and **Docker**
-- 🎨 experienced in frontend integration with **Tailwind CSS** and modern UI/UX practices  
 - 🔬 interested in building intelligent systems and solving meaningful problems through code  
 - 📚 continuously learning, building, and refining my craft as a software developer  
 - 🤝 open to collaboration, innovation, and impactful projects
