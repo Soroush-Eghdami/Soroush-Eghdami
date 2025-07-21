@@ -59,6 +59,3 @@ sorousheghamii / README.md
 
 [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31gu4mpix4lupdt6ez347fjl6rvi)](https://open.spotify.com/user/31gu4mpix4lupdt6ez347fjl6rvi)
 
-### 🐍 Watch the Snake Eat My Contributions!
-
-![snake gif](https://github.com/Soroush-Eghdami/your-github-username/blob/output/dist/snake.svg)
