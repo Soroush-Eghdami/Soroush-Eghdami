@@ -50,6 +50,11 @@ sorousheghamii / README.md
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+### 🎧 Spotify Now Playing
+
+[![Spotify](https://novatorem-31gu4mpix4lupdt6ez347fjl6rvi.vercel.app/api/spotify)](https://open.spotify.com/user/31gu4mpix4lupdt6ez347fjl6rvi)
+
+
 ### 🎵 Recently Played on Spotify
 
 [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31gu4mpix4lupdt6ez347fjl6rvi)](https://open.spotify.com/user/31gu4mpix4lupdt6ez347fjl6rvi)
