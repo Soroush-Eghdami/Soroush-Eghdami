@@ -1,7 +1,4 @@
-sorousheghamii / README.md
-==========================
-
-🧑‍💻 About Me:
+# 🧑‍💻 About Me:
 
 - 🚀 currently expanding backend skills and working on real-world projects with **Python**, **Django**, and **RESTful APIs**
 - 🎓 studying **Computer Engineering** at *Islamic Azad University*  
