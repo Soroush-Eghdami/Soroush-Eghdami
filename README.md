@@ -44,11 +44,11 @@ sorousheghamii / README.md
 
 📊 GitHub Stats:
 
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soroush-Eghdami&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soroush-Eghdami&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Soroush-Eghdami1&theme=dark)](https://git.io/streak-stats)
 
 ### 🎧 Spotify Now Playing
 
