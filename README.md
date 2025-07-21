@@ -45,14 +45,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soroush-Eghdami&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Soroush-Eghdami1&theme=dark)](https://git.io/streak-stats)
 
-### 🎧 Spotify Now Playing
-
-[![Spotify](https://novatorem-31gu4mpix4lupdt6ez347fjl6rvi.vercel.app/api/spotify)](https://open.spotify.com/user/31gu4mpix4lupdt6ez347fjl6rvi)
-
-
-### 🎵 Recently Played on Spotify
-
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31gu4mpix4lupdt6ez347fjl6rvi)](https://open.spotify.com/user/31gu4mpix4lupdt6ez347fjl6rvi)
 
