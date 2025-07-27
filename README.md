@@ -10,7 +10,7 @@
 
 🌐 Socials:
 
-[![Bluesky](https://img.shields.io/badge/Bluesky-1E88E5?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/sorousheghdami.bsky.social)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soroush_eghdami_/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Soroush.egh@gmail.com)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)]((https://t.me/Soroush_Eghdami))
+[![Bluesky](https://img.shields.io/badge/Bluesky-1E88E5?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/sorousheghdami.bsky.social)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soroush_eghdami_/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Soroush.egh@gmail.com)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Soroush_Eghdami)
 
 
 🧰 Tech Stack:
