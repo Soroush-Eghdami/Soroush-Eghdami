@@ -8,13 +8,11 @@
 - 📚 continuously learning, building, and refining my craft as a software developer  
 - 🤝 open to collaboration, innovation, and impactful projects
 
-<br>
 
 ## 🌐 Socials:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Soroush.egh@gmail.com)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Soroush_Eghdami)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soroush_eghdami_/)  [![Bluesky](https://img.shields.io/badge/Bluesky-1E88E5?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/sorousheghdami.bsky.social)  
 
-<br>
 
 ## 🧰 Tech Stack:
 
@@ -42,7 +40,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<br>
 
 ## 📊 GitHub Stats:
 
