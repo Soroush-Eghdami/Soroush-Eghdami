@@ -45,6 +45,8 @@
 
 ![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soroush-Eghdami&show_icons=true&theme=tokyonight)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soroush-Eghdami&theme=radical" alt="GitHub Streak" height="180"/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soroush-Eghdami&layout=compact&theme=tokyonight)
 
 
