@@ -43,7 +43,9 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soroush-Eghdami&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soroush-Eghdami&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Soroush-Eghdami&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/> </br>
+  </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soroush-Eghdami&theme=radical" alt="GitHub Streak" height="180"/> </br>
+  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soroush-Eghdami&layout=compact&theme=tokyonight" alt="Most Used languages" height="180"/>
 </p>
