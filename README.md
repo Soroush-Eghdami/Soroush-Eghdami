@@ -18,11 +18,11 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:Soroush.egh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
-  <a href="https://t.me/Soroush_Eghdami"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="28"/></a>
-  <a href="https://www.instagram.com/soroush_eghdami_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/></a>
-  <a href="https://bsky.app/profile/sorousheghdami.bsky.social"><img src="https://img.shields.io/badge/Bluesky-1E88E5?style=for-the-badge&logo=bluesky&logoColor=white" height="28"/></a>
-  <a href="https://github.com/Soroush-Eghdami"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
+  <a href="mailto:Soroush.egh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/Soroush_Eghdami"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/soroush_eghdami_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://bsky.app/profile/sorousheghdami.bsky.social"><img src="https://img.shields.io/badge/Bluesky-1E88E5?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
+  <a href="https://github.com/Soroush-Eghdami"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ## 💻 Tech Stack
