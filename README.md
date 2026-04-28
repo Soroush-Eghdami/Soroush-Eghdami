@@ -11,7 +11,7 @@
 - 🚀 Building real-world projects with **Python**, **Django**, and **REST APIs**  
 - 🎓 Computer Engineering student at *Islamic Azad University*  
 - 🧠 Exploring **AI/ML**, system design, and backend architecture  
-- ⚙️ Skilled in **Python, Django, FastAPI, PostgreSQL, Docker, Git**  
+- ⚙️ Skilled in **Python, Django, RestAPI, PostgreSQL, Docker, Git**  
 - 🔬 Passionate about intelligent systems and solving meaningful problems  
 - 🤝 Open to collaboration on innovative and impactful projects  
 
@@ -30,7 +30,7 @@
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
