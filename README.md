@@ -1,75 +1,130 @@
-# 👋 Hi, I'm Soroush Eghdami
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Backend+Developer+%7C+Python+%7C+Django;Exploring+AI%2FML+%26+System+Design" alt="Typing SVG" />
+
+# 👋 Soroush Eghdami
+
+### Python Backend Developer | Django · REST APIs · Docker | Building AI-powered RAG Systems
+
+<br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=2C5364)](mailto:Soroush.egh@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2C5364)](https://t.me/Soroush_Eghdami)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=2C5364)](https://www.instagram.com/soroush_eghdami_/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-000?style=for-the-badge&logo=bluesky&logoColor=2C5364)](https://bsky.app/profile/sorousheghdami.bsky.social)
+
+<img src="https://komarev.com/ghpvc/?username=Soroush-Eghdami&style=for-the-badge&color=2C5364&label=Profile+Views" />
+
 </div>
 
----
+<br>
 
-## 💫 About Me
+<details open>
+  <summary align="center">
+      <samp>
+        <b style="font-size: 15pt;">About Me</b>
+      </samp>
+  </summary>
 
-- 🚀 Building real-world projects with **Python**, **Django**, and **REST APIs**  
-- 🎓 Computer Engineering student at *Islamic Azad University*  
-- 🧠 Exploring **AI/ML**, system design, and backend architecture  
-- ⚙️ Skilled in **Python, Django, RestAPI, PostgreSQL, Docker, Git**  
-- 🔬 Passionate about intelligent systems and solving meaningful problems  
-- 🤝 Open to collaboration on innovative and impactful projects  
+  <br>
 
-## 🌐 Connect with Me
+```python
+class Soroush:
+    def __init__(self):
+        self.name = "Soroush Eghdami"
+        self.role = "Python Backend Developer"
+        self.education = {
+            "field": "Computer Engineering",
+            "current_courses": ["Operating Systems", "Computer Vision"]
+        }
+        self.stack = ["Python", "Django", "REST APIs", "Docker", "PostgreSQL"]
+        self.currently_exploring = "AI-powered RAG systems"
+        self.fun_fact = self.needs_coffee()
 
-<p align="left">
-  <a href="mailto:Soroush.egh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/Soroush_Eghdami"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.instagram.com/soroush_eghdami_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://bsky.app/profile/sorousheghdami.bsky.social"><img src="https://img.shields.io/badge/Bluesky-1E88E5?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
-  <a href="https://github.com/Soroush-Eghdami"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+    def needs_coffee(self):
+        return "☕ always" if True else "😴"
 
-## 💻 Tech Stack
+soroush = Soroush()
+```
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br>
+
+- 🚀 Building real-world backend projects with **Python**, **Django**, and **REST APIs**
+- 🎓 Studying Computer Engineering — currently deep in Operating Systems and Computer Vision
+- 🧠 Exploring **AI/ML**, RAG (Retrieval-Augmented Generation) systems, and backend architecture
+- ⚙️ Comfortable with **Python, Django, PostgreSQL, MongoDB, Docker, Git**
+- 🔭 Currently working on full-stack apps like a Twitter clone and a cake shop web app
+- 🤝 Open to collaborating on impactful, well-engineered projects
+
+<br><br>
+
+<h1 align="center">🛠️ Tech Stack</h1>
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-2C5364?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998b?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2C5364?style=for-the-badge&logo=javascript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Databases & Caching**  
+**Databases & Caching**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**DevOps & Tools**  
+**DevOps & Tools**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Design & Others**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soroush-Eghdami&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soroush-Eghdami&theme=radical&hide_border=false" height="180" alt="GitHub Streak" />
 </div>
 
+<br><br>
+
+<h1 align="center">📊 GitHub Stats</h1>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soroush-Eghdami&layout=compact&theme=radical&hide_border=false&langs_count=8" height="180" alt="Top Languages" />
+<img src="./profile/stats.svg" width="48%" alt="GitHub Stats"/>
+<img src="./profile/streak.svg" width="48%" alt="GitHub Streak"/>
+<br>
+<img src="./profile/top-langs.svg" width="48%" alt="Top Languages"/>
 </div>
 
-## ✍️ Random Dev Quote
+<br><br>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+<h1 align="center">📌 Featured Projects</h1>
 
----
-<p align="center">
-  <i>Let's build something great together!</i>
-</p>
+<div align="center">
+
+[![R.A.G](./profile/pin-rag.svg)](https://github.com/Soroush-Eghdami/R.A.G)
+[![Tweeter_Demo](./profile/pin-tweeter-demo.svg)](https://github.com/Soroush-Eghdami/Tweeter_Demo)
+<br>
+[![Online-shop-CBV](./profile/pin-online-shop-cbv.svg)](https://github.com/Soroush-Eghdami/Online-shop-CBV)
+[![Summerizer](./profile/pin-summerizer.svg)](https://github.com/Soroush-Eghdami/Summerizer)
+
+</div>
+
+<br><br>
+
+<h1 align="center">📫 Contact Me</h1>
+
+```json
+{
+  "Email": "Soroush.egh@gmail.com",
+  "Telegram": "@Soroush_Eghdami",
+  "Instagram": "@soroush_eghdami_",
+  "Bluesky": "sorousheghdami.bsky.social"
+}
+```
+
+</details>
+
+<br>
+
+<div align="center"><i>Let's build something great together!</i></div>
