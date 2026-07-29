@@ -1,9 +1,8 @@
 <div align="center">
-
-# 👋 Soroush Eghdami
-
-### Python Backend Developer | Django · REST APIs · Docker | Building AI-powered RAG Systems
-
+  
+**👋 Soroush Eghdami**
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;Django+%C2%B7+REST+APIs+%C2%B7+Docker;Building+AI-powered+RAG+Systems)](https://github.com/Soroush-Eghdami)
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=2C5364)](mailto:Soroush.egh@gmail.com)
@@ -117,7 +116,7 @@ soroush = Soroush()
 ```json
 {
   "Email": "Soroush.egh@gmail.com",
-  "Telegram": "@Soroush_Eghdami",
+  "Telegram": "@inairplanemode",
   "Instagram": "@soroush_eghdami_",
   "Bluesky": "sorousheghdami.bsky.social"
 }
