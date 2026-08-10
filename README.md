@@ -6,7 +6,7 @@
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=2C5364)](mailto:Soroush.egh@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2C5364)](https://t.me/Soroush_Eghdami)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2C5364)](https://t.me/inairplanemode)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=2C5364)](https://www.instagram.com/soroush_eghdami_/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-000?style=for-the-badge&logo=bluesky&logoColor=2C5364)](https://bsky.app/profile/sorousheghdami.bsky.social)
 
