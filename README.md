@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=2C5364)](https://www.instagram.com/soroush_eghdami_/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-000?style=for-the-badge&logo=bluesky&logoColor=2C5364)](https://bsky.app/profile/sorousheghdami.bsky.social)
 
-<img src="https://komarev.com/ghpvc/?username=Soroush-Eghdami&style=for-the-badge&color=2C5364&label=Profile+Views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=Soroush-Eghdami&style=for-the-badge&color=2C5364&label=Profile+Views" /> -->
 
 </div>
 
