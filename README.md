@@ -64,9 +64,10 @@ soroush = Soroush()
 ![Python](https://img.shields.io/badge/Python-2C5364?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![RestAPI](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2C5364?style=for-the-badge&logo=javascript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2C5364?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2C5364?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2C5364?style=for-the-badge&logo=javascript&logoColor=white)
 
 **Databases & Caching**
 
